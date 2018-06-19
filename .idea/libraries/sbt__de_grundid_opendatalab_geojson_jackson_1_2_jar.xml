@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: de.grundid.opendatalab:geojson-jackson:1.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/de.grundid.opendatalab/geojson-jackson/jars/geojson-jackson-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/de.grundid.opendatalab/geojson-jackson/srcs/geojson-jackson-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

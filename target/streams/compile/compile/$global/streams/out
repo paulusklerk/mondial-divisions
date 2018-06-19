@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/paulusklerk/Documents/repositories/mondial-divisions/src/main/scala/Application.scala:18:26: not found: type UserRepository[0m
+[0m[[0m[31merror[0m] [0m[0m    new UserEndpoint(new UserRepository(Mongo.userCollection)).routes //you can add more routes using the '~' to concatenate: val routes = route1 ~ route2 ~ route3[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/paulusklerk/Documents/repositories/mondial-divisions/src/main/scala/Application.scala:18:41: not found: value Mongo[0m
+[0m[[0m[31merror[0m] [0m[0m    new UserEndpoint(new UserRepository(Mongo.userCollection)).routes //you can add more routes using the '~' to concatenate: val routes = route1 ~ route2 ~ route3[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/paulusklerk/Documents/repositories/mondial-divisions/src/main/scala/Application.scala:18:64: value routes is not a member of endpoints.UserEndpoint[0m
+[0m[[0m[31merror[0m] [0m[0m    new UserEndpoint(new UserRepository(Mongo.userCollection)).routes //you can add more routes using the '~' to concatenate: val routes = route1 ~ route2 ~ route3[0m
+[0m[[0m[31merror[0m] [0m[0m                                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
